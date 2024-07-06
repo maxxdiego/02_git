@@ -9,7 +9,7 @@ git init
 git config --local user.name Diego
 ```
 ```bash
-git config --local user.email diego@celke.com.br
+git config --local user.email diego@email.com.br
 ```
 
 ### Baixar os arquivos do Git
@@ -17,7 +17,7 @@ git config --local user.email diego@celke.com.br
 git clone --branch <branch_name> <repository_url>
 ```
 ```bash
-git clone --branch 1.0 https://github.com/celkecursos/celke_como_usar_github.git
+git clone --branch 1.0 [url]
 ```
 
 ### Verificar a branch
