@@ -1,4 +1,9 @@
-# 02_git
+# Git/Github
+![NPM](https://img.shields.io/npm/l/react)
+# Descrição
+
+:warning: Ainda em construção. :construction:
+
 ### Iniciar novo packet com GIT na máquina 
 ```bash
 git init
