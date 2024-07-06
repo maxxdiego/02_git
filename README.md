@@ -4,6 +4,7 @@
 
 :warning: Ainda em construção. :construction:
 
+
 ### Iniciar novo packet com GIT na máquina 
 ```bash
 git init
@@ -125,3 +126,8 @@ git restore --staged <file_path>
 ```bash
 git restore --staged index.html
 ```
+
+# Autor
+
+Prof. Diego Max da Silva<br>
+https://lattes.cnpq.br/4370663836049458
