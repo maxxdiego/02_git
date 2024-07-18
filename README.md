@@ -1,8 +1,25 @@
 # Git/Github
 ![NPM](https://img.shields.io/npm/l/react)
+
 # Descrição
 
-:warning: Ainda em construção. :construction:
+Git é um sistema de controle de versão distribuído que permite a rastrear mudanças no código-fonte durante o desenvolvimento de software. Criado por Linus Torvalds, Git facilita a colaboração entre desenvolvedores, o gerenciamento de versões e a recuperação de histórico de alterações. 
+
+GitHub é uma plataforma de hospedagem de código baseada na web que usa Git para controle de versão. Oferece uma série de recursos para colaboração e gerenciamento de projetos.
+
+## Principais Características do Git
+- Controle de Versão Distribuído: Cada desenvolvedor possui uma cópia completa do repositório, incluindo seu histórico, o que possibilita trabalhar offline e colaborar de forma descentralizada.
+- Branching e Merging: Permite criar ramificações (branches) para desenvolver funcionalidades separadas e depois mesclá-las (merge) ao branch principal.
+- Registro de Histórico: Armazena um histórico detalhado de todas as alterações feitas no código, facilitando a revisão e a recuperação de versões anteriores.
+- Eficiência e Performance: Proporciona um desempenho rápido e eficiente para operações de controle de versão, mesmo em grandes projetos.
+
+## Principais Características do GitHub
+- Repositórios Remotos: Hospeda repositórios Git na nuvem, permitindo o acesso e a colaboração em projetos de qualquer lugar.
+- Interface Web: Oferece uma interface gráfica para gerenciar repositórios, visualizar o histórico de commits, revisar pull requests e mais.
+- Colaboração: Facilita a colaboração por meio de pull requests, issues (questões), e discussões, permitindo que os desenvolvedores revisem e discutam alterações antes de integrá-las.
+- Integração e Automação: Suporta integração com ferramentas de CI/CD (Integração Contínua e Entrega Contínua) e outras plataformas para automação de testes e deploys.
+
+Git e GitHub são amplamente utilizados no desenvolvimento de software para gerenciamento de código, colaboração eficiente e controle de versões, tornando o processo de desenvolvimento mais organizado e ágil.
 
 
 ### Iniciar novo packet com GIT na máquina 
@@ -126,6 +143,8 @@ git restore --staged <file_path>
 ```bash
 git restore --staged index.html
 ```
+
+<hr>
 
 # Autor
 
